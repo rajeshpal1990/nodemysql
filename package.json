@@ -1,0 +1,24 @@
+{
+  "name": "bodyscanapp",
+  "version": "1.0.0",
+  "description": "bodyscanapp",
+  "main": "app/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rajesh",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "express": "^4.16.2",
+    "generate-password": "^1.4.0",
+    "md5": "^2.2.1",
+    "multer": "^1.3.0",
+    "mysql": "^2.15.0",
+    "node-mysql-nesting": "0.0.3",
+    "nodemailer": "^4.6.0",
+    "promise-mysql": "^3.2.1",
+    "slugify": "^1.2.9",
+    "sync-mysql": "^3.0.1"
+  }
+}
